@@ -1,0 +1,2 @@
+# GetSafeAccountsFromCyberArk
+GetSafeAccountsFromCyberArk
